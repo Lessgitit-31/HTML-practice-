@@ -2,8 +2,8 @@ body {
   background-color: #ffebcd;
   font-family: 'Delicious Handrawn';
   fontsize: 30px;
-  color: dark brown;
-  border: 3px dashed dark brown;
+  color: #8b4513;
+  border: 3px dashed #8b4513;
   margin: 3px;
   padding: 10px;
   border-radius: 10px;
@@ -29,13 +29,13 @@ input[type="submit"] {
   font-family: 'Delicious Handrawn';
   color: dark purple;
   fontsize: 10px;
-  border: 2px brown;
+  border: 2px #8b4513;
 }
 
 button:hover,
 input[type"submit"]:hover {
-  color: dark brown;
-  border: 5px solid dark brown;
+  color: #8b4513;
+  border: 5px solid #8b4513;
   fontsize: 15px;
 }
 
