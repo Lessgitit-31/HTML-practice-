@@ -2,6 +2,10 @@ body {
   background-color: #ffebcd;
   font-family: 'Delicious Handrawn';
   font-size: 22px;
+  border: 3px dashed brown;
+  margin: 3px;
+  padding: 3px;
+  border-radius: 10px;
 }
 
 h1 {
