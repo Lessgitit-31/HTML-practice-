@@ -21,3 +21,11 @@ h1,h2,h3 {
 .ingredients {
   flex: 1;
 }
+
+button,
+input[type="submit"] {
+  background-color: pastel purple;
+  font-family: 'Delicious Handrawn';
+  font-color: brown;
+  border: 2px brown;
+}
