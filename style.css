@@ -1,7 +1,7 @@
 body {
   background-color: #ffebcd;
   font-family: 'Delicious Handrawn';
-  fontsize: 30px;
+  fontsize: 50px;
   color: #8b4513;
   border: 3px dashed #8b4513;
   margin: 3px;
@@ -9,8 +9,12 @@ body {
   border-radius: 10px;
 }
 
-h1,h2,h3 {
-  fontsize: 40px;
+h1 {
+  fontsize: 80px;
+}
+
+h2,h3 {
+  fontsize: 60px;
 }
 
 .ingredients-container {
