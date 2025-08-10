@@ -1,16 +1,16 @@
 body {
   background-color: #ffebcd;
   font-family: 'Delicious Handrawn';
-  fontsize: 22px;
-  color: brown;
-  border: 3px dashed brown;
+  fontsize: 30px;
+  color: dark brown;
+  border: 3px dashed dark brown;
   margin: 3px;
   padding: 10px;
   border-radius: 10px;
 }
 
 h1,h2,h3 {
-  fontsize: 30px;
+  fontsize: 40px;
 }
 
 .ingredients-container {
@@ -34,8 +34,8 @@ input[type="submit"] {
 
 button:hover,
 input[type"submit"]:hover {
-  color: brown;
-  border: 5px solid brown;
+  color: dark brown;
+  border: 5px solid dark brown;
   fontsize: 15px;
 }
 
