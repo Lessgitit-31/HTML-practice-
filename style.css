@@ -12,4 +12,12 @@ h1,h2,h3 {
   font-color: brown
   font-size: 30px;
 }
-  
+
+.ingredients-container {
+  display: flex;
+  gap: 20px;
+}
+
+.ingredients {
+  flex: 1;
+}
