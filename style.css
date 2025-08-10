@@ -18,8 +18,9 @@ h1,h2,h3 {
   gap: 20px;
 }
 
-.ingredients {
+.ingredients h3 {
   flex: 1;
+  text-align: center;
 }
 
 button,
