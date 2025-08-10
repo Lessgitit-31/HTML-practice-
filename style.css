@@ -26,6 +26,15 @@ button,
 input[type="submit"] {
   background-color: pastel purple;
   font-family: 'Delicious Handrawn';
-  font-color: brown;
+  font-color: dark purple;
+  font-size: 10px;
   border: 2px brown;
 }
+
+button:hover,
+input[type"submit"]:hover {
+  font-color: brown;
+  border: 5px solid brown;
+  font-size: 15px;
+}
+
